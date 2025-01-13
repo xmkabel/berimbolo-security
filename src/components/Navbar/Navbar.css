@@ -1,0 +1,68 @@
+/* Don't forget to import Bootstrap CSS in your main App file */
+
+.navbar {
+    background-color: #1D3353;
+    border-radius: 150px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: fixed;
+    width: 95%;
+    margin: 0.5% 2.5%;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    padding: 0.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #EEE4BD !important;
+    width: 16rem;
+}
+
+.navbar-nav .nav-link {
+    color: #EEE4BD !important;
+    padding: 0.5rem 1rem !important;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #A5744D !important;
+}
+
+/* Custom toggler icon color */
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(238, 228, 189, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+.navbar-toggler {
+    border-color: #EEE4BD !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0.25rem rgba(238, 228, 189, 0.2) !important;
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .navbar {
+        border-radius: 0;
+        margin: 0;
+        width: 100%;
+    }
+
+    .navbar-collapse {
+        background-color: #1D3353;
+        padding: 1rem;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 0.5rem 1rem !important;
+    }
+}
