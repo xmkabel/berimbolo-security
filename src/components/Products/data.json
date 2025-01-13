@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "name": "TP-Link Tapo Pan/Tilt Security Camera",
+    "image": "/api/placeholder/300/300",
+    "description": "Smart security camera with 360° coverage, motion detection, and night vision for home monitoring.",
+    "features": ["Pan/Tilt Control", "1080p HD", "Night Vision", "Motion Detection"],
+    "category": "cctv",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 2,
+    "name": "TP-Link Enterprise CCTV System",
+    "image": "/api/placeholder/300/300",
+    "description": "Advanced surveillance system with multiple cameras, central monitoring, and AI-powered analytics.",
+    "features": ["Multi-Camera Setup", "4K Resolution", "AI Analytics", "30-Day Storage"],
+    "category": "cctv",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 3,
+    "name": "Smart Home Access Kit",
+    "image": "/api/placeholder/300/300",
+    "description": "Complete home access control with fingerprint, PIN, and smartphone unlocking options.",
+    "features": ["Biometric Scanner", "Mobile App", "Guest Access", "Activity Log"],
+    "category": "access",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 4,
+    "name": "Enterprise Access Control Hub",
+    "image": "/api/placeholder/300/300",
+    "description": "Centralized access management system for multiple entry points with advanced security protocols.",
+    "features": ["Multi-Door Control", "Time Scheduling", "Employee Management", "Security Alerts"],
+    "category": "access",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 5,
+    "name": "Smart Door Lock X1",
+    "image": "/api/placeholder/300/300",
+    "description": "Modern smart lock with multiple unlock methods and anti-tampering protection.",
+    "features": ["Fingerprint Access", "PIN Code", "Remote Control", "Battery Backup"],
+    "category": "smart-locks",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 6,
+    "name": "Commercial Smart Lock System",
+    "image": "/api/placeholder/300/300",
+    "description": "Enterprise-grade smart locks with centralized management and advanced security features.",
+    "features": ["Access Logs", "Remote Management", "Emergency Override", "Integration API"],
+    "category": "smart-locks",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 7,
+    "name": "Home Network Security Gateway",
+    "image": "/api/placeholder/300/300",
+    "description": "Complete home network protection with advanced firewall and threat detection for personal use.",
+    "features": ["Firewall Protection", "Parental Controls", "VPN Support", "Easy Setup"],
+    "category": "network",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 8,
+    "name": "Enterprise Network Security Suite",
+    "image": "/api/placeholder/300/300",
+    "description": "Comprehensive network security solution for businesses with advanced threat prevention.",
+    "features": ["DDoS Protection", "Network Monitoring", "Threat Intelligence", "Scalable Architecture"],
+    "category": "network",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 9,
+    "name": "Personal Cloud Storage & Backup",
+    "image": "/api/placeholder/300/300",
+    "description": "Secure cloud storage solution for personal data with automatic backup and easy access.",
+    "features": ["Automatic Backup", "1TB Storage", "File Sharing", "Mobile Access"],
+    "category": "cloud",
+    "type": "service",
+    "customerType": "individual"
+  },
+  {
+    "id": 10,
+    "name": "Enterprise Cloud Infrastructure",
+    "image": "/api/placeholder/300/300",
+    "description": "Scalable cloud infrastructure solutions for businesses with dedicated support.",
+    "features": ["Unlimited Storage", "Team Collaboration", "API Integration", "24/7 Support"],
+    "category": "cloud",
+    "type": "service",
+    "customerType": "company"
+  },
+  {
+    "id": 11,
+    "name": "Home Network Maintenance",
+    "image": "/api/placeholder/300/300",
+    "description": "Regular maintenance and optimization of home network for peak performance.",
+    "features": ["Monthly Checkups", "WiFi Optimization", "Security Updates", "Remote Support"],
+    "category": "network",
+    "type": "service",
+    "customerType": "individual"
+  },
+  {
+    "id": 12,
+    "name": "Corporate Network Management",
+    "image": "/api/placeholder/300/300",
+    "description": "Full-scale network management and maintenance for enterprise infrastructure.",
+    "features": ["24/7 Monitoring", "Performance Optimization", "Security Audits", "Infrastructure Planning"],
+    "category": "network",
+    "type": "service",
+    "customerType": "company"
+  },
+  {
+    "id": 13,
+    "name": "Residential Access Control Service",
+    "image": "/api/placeholder/300/300",
+    "description": "Professional management and maintenance of home access control systems.",
+    "features": ["System Updates", "Emergency Support", "User Management", "Mobile Monitoring"],
+    "category": "access",
+    "type": "service",
+    "customerType": "individual"
+  },
+  {
+    "id": 14,
+    "name": "Enterprise Access Management Service",
+    "image": "/api/placeholder/300/300",
+    "description": "Comprehensive access control management service for corporate facilities.",
+    "features": ["Multi-Site Management", "Access Auditing", "Compliance Reports", "Integration Services"],
+    "category": "access",
+    "type": "service",
+    "customerType": "company"
+  },
+  {
+    "id": 15,
+    "name": "Home CCTV Monitoring Service",
+    "image": "/api/placeholder/300/300",
+    "description": "Professional monitoring and maintenance of residential CCTV systems.",
+    "features": ["24/7 Monitoring", "Incident Alerts", "Video Storage", "Monthly Reports"],
+    "category": "cctv",
+    "type": "service",
+    "customerType": "individual"
+  },
+  {
+    "id": 16,
+    "name": "Enterprise CCTV Solutions",
+    "image": "/api/placeholder/300/300",
+    "description": "Complete CCTV management and monitoring service for corporate security.",
+    "features": ["Live Monitoring", "AI Analytics", "Custom Reports", "Security Integration"],
+    "category": "cctv",
+    "type": "service",
+    "customerType": "company"
+  },
+  {
+    "id": 17,
+    "name": "Smart Lock Maintenance Service",
+    "image": "/api/placeholder/300/300",
+    "description": "Regular maintenance and support for residential smart lock systems.",
+    "features": ["Battery Replacement", "Software Updates", "Access Management", "Emergency Support"],
+    "category": "smart-locks",
+    "type": "service",
+    "customerType": "individual"
+  },
+  {
+    "id": 18,
+    "name": "Commercial Lock Management Service",
+    "image": "/api/placeholder/300/300",
+    "description": "Professional management of enterprise-wide smart lock systems.",
+    "features": ["System Monitoring", "User Administration", "Security Audits", "Technical Support"],
+    "category": "smart-locks",
+    "type": "service",
+    "customerType": "company"
+  },
+  {
+    "id": 19,
+    "name": "Home Surveillance Drone",
+    "image": "/api/placeholder/300/300",
+    "description": "Compact drone for home surveillance with live streaming and automated patrol.",
+    "features": ["Live Streaming", "Automated Patrol", "HD Camera", "Night Vision"],
+    "category": "cctv",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 20,
+    "name": "Corporate Drone Surveillance Fleet",
+    "image": "/api/placeholder/300/300",
+    "description": "Fleet of surveillance drones with centralized control for enterprise security.",
+    "features": ["Fleet Management", "AI Analytics", "Long Flight Time", "Centralized Control"],
+    "category": "cctv",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 21,
+    "name": "Advanced Biometric Access Control",
+    "image": "/api/placeholder/300/300",
+    "description": "State-of-the-art biometric access control system for residential security.",
+    "features": ["Facial Recognition", "Fingerprint Scanner", "Remote Access", "Emergency Override"],
+    "category": "access",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 22,
+    "name": "Enterprise Biometric Security Hub",
+    "image": "/api/placeholder/300/300",
+    "description": "Comprehensive biometric access control system for corporate environments.",
+    "features": ["Multi-Factor Authentication", "Centralized Control", "Real-Time Alerts", "Audit Trails"],
+    "category": "access",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 23,
+    "name": "Premium Smart Lock with Camera",
+    "image": "/api/placeholder/300/300",
+    "description": "High-tech smart lock with integrated camera for enhanced home security.",
+    "features": ["Camera Integration", "App Control", "Tamper Alerts", "Battery Backup"],
+    "category": "smart-locks",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 24,
+    "name": "Commercial Smart Lock Solution",
+    "image": "/api/placeholder/300/300",
+    "description": "Enterprise-grade smart lock system with cloud-based management.",
+    "features": ["Cloud Management", "User Access Logs", "Remote Locking", "Integration API"],
+    "category": "smart-locks",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 25,
+    "name": "High-Speed Home WiFi Router",
+    "image": "/api/placeholder/300/300",
+    "description": "Advanced home WiFi router with high-speed connectivity and easy setup.",
+    "features": ["Gigabit Speeds", "Parental Controls", "Easy Setup", "Multiple Device Support"],
+    "category": "network",
+    "type": "product",
+    "customerType": "individual"
+  },
+  {
+    "id": 26,
+    "name": "Enterprise Network Router System",
+    "image": "/api/placeholder/300/300",
+    "description": "Powerful network router system for businesses with high traffic needs.",
+    "features": ["High Bandwidth", "Load Balancing", "Security Features", "Scalable Architecture"],
+    "category": "network",
+    "type": "product",
+    "customerType": "company"
+  },
+  {
+    "id": 27,
+    "name": "Personal Cloud Backup Service",
+    "image": "/api/placeholder/300/300",
+    "description": "Secure cloud backup service for personal files and data with easy access.",
+    "features": ["Auto Backup", "File Versioning", "Cross-Device Access", "Encrypted Storage"],
+    "category": "cloud",
+    "type": "service",
+    "customerType": "individual"
+  },
+  {
+    "id": 28,
+    "name": "Corporate Cloud Storage Solution",
+    "image": "/api/placeholder/300/300",
+    "description": "Scalable cloud storage and backup solution for enterprises with data redundancy.",
+    "features": ["Scalable Storage", "Data Redundancy", "Team Collaboration", "24/7 Support"],
+    "category": "cloud",
+    "type": "service",
+    "customerType": "company"
+  },
+  {
+    "id": 29,
+    "name": "Indoor Wireless Security Camera",
+    "image": "/api/placeholder/300/300",
+    "description": "Compact indoor wireless camera with motion alerts and cloud storage.",
+    "features": ["Wireless Connectivity", "Motion Alerts", "HD Recording", "Cloud Storage"],
+    "category": "cctv",
+    "type": "product",
+    "customerType": "individual"
+}
+
+]
