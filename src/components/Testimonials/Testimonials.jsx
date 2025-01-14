@@ -11,7 +11,7 @@ function Testimonials(){
                 <div class="testimonial-author">
                     <img src={require('./Sara.png')} alt="Sara Ahmed Avatar" class="avatar"/>
                     <div>
-                        <h4>Sara Ahmed</h4>
+                        <span class="h4">Sara Ahmed</span>
                         <p>@saraahmed00</p>
                     </div>
                 </div>
@@ -21,7 +21,7 @@ function Testimonials(){
                 <div class="testimonial-author">
                     <img src={require('./Musk.png')} alt="Elon Musk Avatar" class="avatar"/>
                     <div>
-                    <h4>Elon Musk</h4>
+                    <span class="h4">Elon Musk</span>
                     <p>@elonmusk</p>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ function Testimonials(){
                 <div class="testimonial-author">
                     <img src={require('./Kabel.png')} alt="Mohamed Kabel Avatar" class="avatar"/>
                     <div>
-                    <h4>Mohamed Kabel</h4>
+                    <span class="h4">Mohamed Kabel</span>
                     <p>@mohamedkabel</p>
                     </div>
                 </div>

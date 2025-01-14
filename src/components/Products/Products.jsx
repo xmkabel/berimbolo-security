@@ -107,7 +107,7 @@ const Products = () => {
                 <ul className="features-list" >
                   {item.features.map((feature, index) => (
                     <li key={index} className="feature-item">
-                      <span className="badge badge-pill badge-primary" style={{backgroundColor:"#A5744D"}}>{feature}</span>
+                      <span className="badge badge-pill badge-primary" style={{backgroundColor:"#2B354F"}}>{feature}</span>
                     </li>
                   ))}
                 </ul>
