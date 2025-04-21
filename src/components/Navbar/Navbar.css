@@ -1,11 +1,8 @@
-/* Don't forget to import Bootstrap CSS in your main App file */
-
 .navbar {
     background-color: #1D3353;
     border-radius: 150px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     position: fixed;
-    width: 95%;
     margin: 0.5% 2.5%;
     top: 0;
     z-index: 1000;
