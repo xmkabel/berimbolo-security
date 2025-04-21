@@ -1,3 +1,8 @@
+.container-center {
+    display: flex;
+    justify-content: center;
+}
+
 .hero {
     height: 100vh;
     background-image: url(./background.webp);
@@ -12,15 +17,35 @@
 
 .hero-content {
     color: #1D3353;
-    max-width: 800px;
+    max-width: 80%;
     margin: 0 auto;
-    filter: drop-shadow(1px 5px 10px #1D3353);}
+    filter: drop-shadow(1px 5px 10px #1D3353);
+}
 
 .hero-content h1 {
     font-size: 4rem;
     margin-bottom: 1rem;
 }
 
+@media (max-width: 500px) {
+    .hero-content h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    .hero-content {
+        font-size: 0.1rem !important;
+        margin-bottom: 2rem;
+    }
+}
+
+  
+  
+  @media (max-width: 768px) {
+    html {
+      font-size: 85%;
+    }
+  }
+  
 .hero-content p {
     font-size: 1.2rem;
     margin-bottom: 2rem;
@@ -37,11 +62,12 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: all 0.1s ease;
+    transition: all 0.2s ease;
 }
 
 .cta-button:hover {
     background-color: transparent;
+    backdrop-filter: blur(10px);
     color: #1D3353;
     border: #1D3353 solid 1px;
 }

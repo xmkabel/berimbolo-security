@@ -9,7 +9,12 @@
     max-width: 1200px;
     margin: 0 auto;
 }
-
+@media (max-width:930px) {
+    .contact-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
 .contact-info {
     padding: 2rem;
     background-color: #f9f9f9;
