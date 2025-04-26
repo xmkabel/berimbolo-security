@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/berimbolo-security/static/css/main.6d2edbe5.css",
+    "main.js": "/berimbolo-security/static/js/main.7295af3b.js",
+    "static/js/488.9a0b233b.chunk.js": "/berimbolo-security/static/js/488.9a0b233b.chunk.js",
+    "static/media/background.webp": "/berimbolo-security/static/media/background.030f20813c3d7f52bc49.webp",
+    "index.html": "/berimbolo-security/index.html",
+    "main.6d2edbe5.css.map": "/berimbolo-security/static/css/main.6d2edbe5.css.map",
+    "main.7295af3b.js.map": "/berimbolo-security/static/js/main.7295af3b.js.map",
+    "488.9a0b233b.chunk.js.map": "/berimbolo-security/static/js/488.9a0b233b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2edbe5.css",
+    "static/js/main.7295af3b.js"
+  ]
+}
