@@ -27,5 +27,5 @@ npm start
 ```
 
 ## Contact
-Your Name - [LinkedIn](https://www.linkedin.com/in/mohamedkabel)
+Mohamed Kabel - [LinkedIn](https://www.linkedin.com/in/mohamedkabel)
 Project Link: [https://github.com/xmkabel/berimbolo-security](https://github.com/xmkabel/berimbolo-security)
